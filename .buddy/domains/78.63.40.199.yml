@@ -1,0 +1,18 @@
+"78.63.40.199":
+  records:
+    '@':
+    - type: SOA
+      values: bison.buddy.domains. hostmaster.78.63.40.199. 2026111001 10800 3600 604800 3600
+    - type: NS
+      values:
+      - bison.buddy.domains.
+      - lynx.buddy.domains.
+      - stork.buddy.domains.
+      - wolf.buddy.domains.
+    - type: A
+      ttl: 300
+      values: 66.96.88.176
+    '*':
+    - type: A
+      ttl: 300
+      values: 66.96.88.176
